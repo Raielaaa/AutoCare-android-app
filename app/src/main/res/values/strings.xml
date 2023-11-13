@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AutoCare</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Login -->
+    <string name="account_login_header_1">Auto Car</string>
+    <string name="account_login_header_2">Workshop Log In</string>
+    <string name="account_login_username">Username</string>
+    <string name="account_login_password">Password</string>
+    <string name="account_login_button">LOG IN</string>
+    <string name="account_login_no_account">Don\'t have an account? Register</string>
+
+    <!-- Register -->
+    <string name="account_register_button">REGISTER</string>
+    <string name="account_register_existing_account">Already have an account? Login</string>
+    <string name="account_register_header_2">Workshop Register</string>
+    <string name="title_activity_main_view">MainViewActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- Loading screen dialog -->
+    <string name="loading">Loading in progress</string>
+    <string name="db_connect">Connecting to our secure network</string>
+
+    <!-- Home -->
+    <string name="home_action_bar_header">Spare Parts</string>
+    <string name="home_list_item_product_name_holder_1">DFT Water pump AW4126</string>
+    <string name="home_list_item_product_name_holder_2">OMR 187</string>
+    <string name="home_list_add">Add</string>
+    <string name="home_list_delete">Delete</string>
+    <string name="home_list_search">Search Spare Parts</string>
+    
+    <string name="home_list_confirm_header">Confirm action</string>
+    <string name="home_list_confirm_body">Are you sure you want to add this item to your cart?</string>
+    <string name="home_list_confirm_cancel">Cancel</string>
+    <string name="home_list_confirm_proceed">Proceed</string>
+    
+    <!-- Cart -->
+    <string name="cart_action_bar">Selected Items</string>
+    <string name="cart_empty_cart">Your cart is empty</string>
+</resources>
